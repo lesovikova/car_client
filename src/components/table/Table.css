@@ -1,7 +1,8 @@
 .table {
     max-width: 1200px;
     min-width: 900px;
-    margin:  30px 0 30px auto;
-    background-color: #CEEBEB;
+    margin:  0 auto;
+    background-color: #415766;
     padding: 10px;
+    color: white;
 }

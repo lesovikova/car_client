@@ -1,4 +1,5 @@
 .App {
+  min-height: 100vh;
   background-color: lightgrey;
   color: #333333;
 }

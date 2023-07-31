@@ -76,6 +76,7 @@ useEffect(() => {getDB();}, [])
             const API = `https://localhost:7291/api/Cars/${index}`;
             const res = await axios.delete(API);
             getDB();
+            console.log(res);
         }
         catch(err) {
             console.log(err);
