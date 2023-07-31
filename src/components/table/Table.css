@@ -1,0 +1,7 @@
+.table {
+    max-width: 1200px;
+    min-width: 900px;
+    margin:  30px 0 30px auto;
+    background-color: #CEEBEB;
+    padding: 10px;
+}
